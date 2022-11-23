@@ -15,6 +15,6 @@ The conflict has been resolved locally by Sadia Afrose again....
 
 Yes..line 4 has conflicted. This conflict has been resolved by Shahdat.
 
-Im trying to conflict(Kazi Minhazul)
-Im trying to conflict again(Kazi Minhazul)
+
+Im trying to make a conflict(Kazi Minhazul Islam)
 
