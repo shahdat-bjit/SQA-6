@@ -11,7 +11,13 @@ The conflict has been resolved locally by Sadia Afrose.
 
 It's time to check resolve in this line.. It's me Shahdat.. Sadia has an another text in this line.. Let's check it will create conflict or not..
 
-The conflict has been resolved locally by Sadia Afrose again.
+The conflict has been resolved locally by Sadia Afrose again....
 
 Yes..line 4 has conflicted. This conflict has been resolved by Shahdat.
 
+Im trying to conflict(Kazi Minhazul)
+
+
+I am Achal, trying to create conflict again
+
+I am Achal, trying to create conflict....please try again
