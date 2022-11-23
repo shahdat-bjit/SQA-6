@@ -16,12 +16,18 @@ The conflict has been resolved locally by Sadia Afrose again....
 Yes..line 4 has conflicted. This conflict has been resolved by Shahdat.
 
 
+
 Im trying to make a conflict(Kazi Minhazul Islam)...   yay!!!!
+
+Im trying to make a conflict(Kazi Minhazul Islam)...please try again
+
+Conflict is resolved by Kazi Minhazul Islam
+
 
 
 I am Achal, trying to create conflict again
 
-I am Achal, trying to create conflict....please try again
+I am Achal, resolved
 
 
 
