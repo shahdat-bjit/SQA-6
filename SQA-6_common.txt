@@ -15,20 +15,15 @@ The conflict has been resolved locally by Sadia Afrose again....
 
 Yes..line 4 has conflicted. This conflict has been resolved by Shahdat.
 
-
-
-<<<<<<< HEAD
 Im trying to make a conflict(Kazi Minhazul Islam
-=======
+
 Im trying to make a conflict(Kazi Minhazul Islam)...   yay!!!!
->>>>>>> 4b835b1c1aab2454d3d9127641a44c090bb015ea
 
 Im trying to make a conflict(Kazi Minhazul Islam)...please try again
 
 Conflict is resolved by Kazi Minhazul Islam
 
-
-
+Im trying to conflict(Kazi Minhazul)...try to conflict again
 
 I am Achal, trying to create conflict again
 
