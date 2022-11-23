@@ -2,6 +2,11 @@ This file is for SQA-6 Group
 
 I'm MD SHAHDAT HOSAIN, acting as a repository owner
 
+
 It's time to check resolve in this line.. It's me Shahdat.. Sadia has an another text in this line.. Let's check it will create conflict or not.
 
 The conflict has been resolved locally by Sadia Afrose.
+
+It's time to check resolve in this line.. It's me Shahdat.. Sadia has an another text in this line.. Let's check it will create conflict or not..
+
+The conflict has been resolved locally by Sadia Afrose again.
